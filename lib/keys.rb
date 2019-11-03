@@ -12,3 +12,4 @@ def get_the_keys(groceries)
  puts groceries.key 
   #code your solution here!
 end
+get_the_keys
